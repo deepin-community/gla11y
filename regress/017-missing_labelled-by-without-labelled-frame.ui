@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<child>
+	<object class="GtkFrame">
+		<child>
+			<object class="GtkLabel" id="label1">
+			</object>
+		</child>
+		<child>
+			<object class="GtkLabel" id="label2">
+			</object>
+		</child>
+		<object class="GtkEntry" id="entry1">
+		</object>
+		<object class="GtkEntry" id="entry2">
+		</object>
+	</object>
+</child>

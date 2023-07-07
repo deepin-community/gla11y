@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<child>
+	<object class="GtkButton" id="ok">
+		<property name="action_name">my Ok button</property>
+		<property name="action_name">my Ok button2</property>
+	</object>
+</child>
