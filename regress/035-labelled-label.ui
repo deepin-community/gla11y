@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<object class="GtkFrame" id="frame1">
+        <child type="label">
+        	<object class="GtkLabel" id="thelabel">
+                        <accessibility>
+                                <relation type="label-for" target="column"/>
+                        </accessibility>
+        	</object>
+        </child>
+        <child>
+        	<object class="GtkLabel" id="column">
+                        <accessibility>
+                                <relation type="labelled-by" target="thelabel"/>
+                        </accessibility>
+        	</object>
+        </child>
+</object>

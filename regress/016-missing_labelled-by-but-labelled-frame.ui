@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<child>
+	<object class="GtkFrame">
+		<child type="label">
+			<object class="GtkLabel">
+			</object>
+		</child>
+		<object class="GtkComboBox" id="combo">
+		</object>
+	</object>
+</child>

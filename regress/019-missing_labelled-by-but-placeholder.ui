@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<child>
+	<object class="GtkEntry" id="entry">
+		<property name="placeholder_text">my entry</property>
+	</object>
+</child>

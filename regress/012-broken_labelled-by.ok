@@ -1,0 +1,6 @@
+012-broken_labelled-by.ui:4 WARNING: 'GtkLabel' 'colsb1' does not specify what it labels within 'child' line 2
+012-broken_labelled-by.ui:8 FATAL ERROR: 'GtkSpinButton' 'column' labelled-by uses undeclared target 'colsb2'
+1 new error
+1 new warning
+1 new fatal
+Explanations are available on https://github.com/hypra/gla11y/blob/master/HOWTO.md

@@ -1,0 +1,2 @@
+Depends: gla11y, python3-lxml
+Test-Command: GLA11Y=/usr/bin/gla11y make check
